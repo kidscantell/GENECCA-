@@ -129,7 +129,7 @@ footer {
 /* Keyframes for slideshow effect */
 @keyframes slide {
     0% {
-        background-image: url('image/background1.JPEG'); 
+        background-image: url('background1.JPEG'); 
     }
     33.33% {
         background-image: url('image/background2.JPEG'); 
