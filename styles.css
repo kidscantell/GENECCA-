@@ -129,16 +129,16 @@ footer {
 /* Keyframes for slideshow effect */
 @keyframes slide {
     0% {
-        background-image: url('image/background1.jpg'); 
+        background-image: url('image/background1.JPEG'); 
     }
     33.33% {
-        background-image: url('image/background2.jpg'); 
+        background-image: url('image/background2.JPEG'); 
     }
     66.66% {
-        background-image: url('image/background3.jpg'); 
+        background-image: url('image/background3.JPEG'); 
     }
     100% {
-        background-image: url('image/background4.jpg'); /* Loop back to the first image */
+        background-image: url('image/background4.JPEG'); /* Loop back to the first image */
     }
 }
 
